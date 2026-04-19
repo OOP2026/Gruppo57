@@ -24,4 +24,3 @@ Questo repository contiene degli strumenti automatici di valutazione della quali
 Ad ogni push effettuato tramite interfaccia Web o tramite Github Desktop partono automaticamente delle analisi, che impiegano pochi minuti.
 I risultati della analisi possono vedersi nei badge in alto. Per approfondire i risultati di SonarCloud è sufficiente cliccare su "scanned on SonarQube".
 Per approfondire i risultati dell'analisi architetturale bisogna andare in Actions, cliccare sul workflow più in alto e poi su Architectural Tests
-
